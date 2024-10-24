@@ -1,6 +1,6 @@
 # 980 Div. 1
 
-**Concatenation of arrays**
+## Concatenation of arrays
 
 I believe this problem has a very simple solution (still untested), I believe
 this is a special type of pair sort. The intuition I have for this is as
@@ -19,4 +19,5 @@ Now consider [3,4] [1,2] [3,3]:
 3,4,3,3,1,2 --> even worse
 Etc...
 
-I'll try to implement that in C++ first
+I'll try to implement that in C++ first. Update: I got two solutions working
+now, one for Python and one for C++. And now three: and additional Golang one.
